@@ -1,4 +1,4 @@
-var soql2json = require('./soql2json.js');
+var soql2json = require("soql2json");
 
 var sqlQuery 
 = 'SELECT Amount, Id, Name, (SELECT Quantity, ListPrice, UnitPrice, PricebookEntry FROM OpportunityLineItems) FROM Opportunity';

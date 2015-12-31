@@ -1,6 +1,9 @@
 {
   "name": "soql2json",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/shankar-ray/soql2json"
+  },
   "description": "Convert Salesforce SOQL query to a JSON object",
   "main": "soql2json.js",
   "scripts": {
@@ -10,5 +13,6 @@
     "soql"
   ],
   "author": "Sangram Kesari Ray",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
