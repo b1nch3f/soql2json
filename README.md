@@ -1,0 +1,1 @@
+Convert Salesforce SOQL query to a JSON object
