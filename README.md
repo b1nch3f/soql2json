@@ -5,6 +5,8 @@ Convert Salesforce SOQL query to a JSON object
 Example
 -------
 
+npm install soql2json
+
 var soql2json = require("soql2json");
 
 var sqlQuery 
